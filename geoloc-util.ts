@@ -3,7 +3,6 @@
 import {Command} from 'commander'
 import axios from 'axios'
 
-// const API_KEY = 'f897a99d971b5eef57be6fafa0d83239'
 const API_KEY = 'cb4bf78815e74de1e598b3c9b27391ea'
 const GEO_API_BASE = 'http://api.openweathermap.org/geo/1.0'
 
